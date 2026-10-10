@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab03_arxit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59b4a309d0e9d39ded4c4999d3e9babed751554d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ed0770f870ab7feda06d7741965d3d10be0b1ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab03_arxit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab03_arxit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
