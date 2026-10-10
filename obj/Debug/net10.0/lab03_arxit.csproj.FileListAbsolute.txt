@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\lab03_arxit\bin\Debug\net10.0\lab03_arxit.exe
+C:\Users\user\Desktop\lab03_arxit\bin\Debug\net10.0\lab03_arxit.deps.json
+C:\Users\user\Desktop\lab03_arxit\bin\Debug\net10.0\lab03_arxit.runtimeconfig.json
+C:\Users\user\Desktop\lab03_arxit\bin\Debug\net10.0\lab03_arxit.dll
+C:\Users\user\Desktop\lab03_arxit\bin\Debug\net10.0\lab03_arxit.pdb
+C:\Users\user\Desktop\lab03_arxit\obj\Debug\net10.0\lab03_arxit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lab03_arxit\obj\Debug\net10.0\lab03_arxit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab03_arxit\obj\Debug\net10.0\lab03_arxit.AssemblyInfo.cs
+C:\Users\user\Desktop\lab03_arxit\obj\Debug\net10.0\lab03_arxit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab03_arxit\obj\Debug\net10.0\lab03_arxit.dll
+C:\Users\user\Desktop\lab03_arxit\obj\Debug\net10.0\refint\lab03_arxit.dll
+C:\Users\user\Desktop\lab03_arxit\obj\Debug\net10.0\lab03_arxit.pdb
+C:\Users\user\Desktop\lab03_arxit\obj\Debug\net10.0\lab03_arxit.genruntimeconfig.cache
+C:\Users\user\Desktop\lab03_arxit\obj\Debug\net10.0\ref\lab03_arxit.dll
